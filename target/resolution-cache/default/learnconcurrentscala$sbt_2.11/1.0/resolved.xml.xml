@@ -4,7 +4,7 @@
 		module="learnconcurrentscala$sbt_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20160116135315"
+		publication="20160119004550"
 	/>
 	<configurations>
 		<conf name="default" visibility="public"/>
